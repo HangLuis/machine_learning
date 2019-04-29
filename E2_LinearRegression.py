@@ -1,4 +1,4 @@
-#分别用最小二乘法和Sklearn包实现线性回归
+#分别用最小二乘法和Sklearn包实现线性回
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
